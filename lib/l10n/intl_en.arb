@@ -1,0 +1,33 @@
+{
+  "home": "Home",
+  "courses" : "Courses",
+  "chat" : "Chat",
+  "account" : "Account",
+  "hi": "Hi",
+  "letstartlearning": "Let's start learning",
+  "whatdouwanttolearntoday": "What do you want to learn today ?",
+  "getstarted": "Get Started",
+  "learningplan": "Learning Plan",
+  "meetup": "Meetup",
+  "offline_exchange": "Off-line exchange of learning experience",
+  "notifications": "Notifications",
+  "notification": "notification",
+  "message": "message",
+  "course" : "Courses",
+  "allcourses" : "All Courses",
+  "mycourses": "My Courses",
+  "language":"Language",
+  "painting": "Painting",
+  "choose_your_course": "Choose Your Course",
+  "learned_today" :"Learned Today",
+  "all": "All",
+  "popular": "Popular",
+  "neew": "New",
+  "completed": "Completed" ,
+  "question": "Do you Want to edit your information ?",
+  "yes": "Yes",
+  "no": "No"
+
+
+
+}
